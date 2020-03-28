@@ -10,10 +10,11 @@
         {{ .Content }}
     </article>
 
-
     {{ partial "article/next.html" . }}
+    
+    {{< subscribe email="alunje73@gmail.com" >}}
 </section>
-
+    
 {{ $script := resources.Get "js/progressBar.js" }}
  <script src="{{ $script.RelPermalink }}"></script>
 {{ end }}
