@@ -2,16 +2,3 @@ baseURL: "https://blog.stephenajulu.com"
 languageCode: "en-us"
 title: "Stephen Ajulu's Blog"
 pygmentsstyle: 'monokai'
-
-# Theme settings
-theme: novela
-paginate: 7
-social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
-taxonomies:
-  author: authors
