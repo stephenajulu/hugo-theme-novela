@@ -31,4 +31,5 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/10-internet-safety-rules.md
 - content/post/young-kenyan-techies-are-making-money-by-targeting-banks.md
