@@ -2,7 +2,7 @@
 authors = ["stephen-ajulu"]
 date = 2020-02-17T21:00:00Z
 excerpt = "A quick look into how and possibly why young Kenyan techies and nerds are turning into black hat hackers and are targeting financial organizations e.g banks. Hint? This problem stems from the lack of job opportunities and security for the youth especially those in the I.T industry in Kenya."
-hero = "/static/images/cyber-crime-cpo-magazine-1024x587-1.jpg"
+hero = "/static/images/cybersecurity-post_2d00_1600x900-1.jpg"
 title = "Young Kenyan Techies are Making Money by Targeting Banks"
 
 +++
