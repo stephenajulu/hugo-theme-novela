@@ -1,42 +1,4 @@
-  <link href="a2hs/addtohomescreen.min.css" rel="stylesheet">
-<!-- Common Add to Homescreen Template -->
-    <div class="ath-container banner-bottom-center">
-        <div class="ath-banner">
-            <div class="ath-banner-cell">
-                <img src="pwa-logo-50x50.png" alt="PWA" class="ath-prompt-logo">
-            </div>
-            <div class="ath-banner-title">
-                <p>Install This PWA?</p>
-            </div>
-            <div class="ath-banner-cell">
-                <button class="btn btn-cancel btn-link">Not Now</button>
-            </div>
-            <div class="ath-banner-cell">
-                <button class="btn btn-install btn-success">Install</button>
-            </div>
 
-        </div>
-    </div>
-    <script src="a2hs/addtohomescreen.min.js" type="application/javascript"></script>
-
-        <script src="a2hs/addtohomescreen.js"></script>
-    <script>
-        addToHomescreen( {
-            appID: "com.stephenajulu.blog",
-            appName: "Ajulu&#39;s Thoughts",
-            lifespan: 15,
-	startDelay:0,
-            autostart: true,
-            minSessions: 1,
-            displayPace: 0,
-            customPrompt: {
-                title: "Install Ajulu&#39;s Thoughts?",
-                src: "meta/favicon-96x96.png",
-                cancelMsg: "Cancel",
-                installMsg: "Install"
-            }
-        } );
-    </script>
     <script>
         if ( "serviceWorker" in navigator ) {
 
